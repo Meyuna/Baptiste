@@ -22,4 +22,4 @@ if (message.content === "!baptiste") {
     message.channel.send('<:meyu_bapt1:591305831040155709> <:meyu_bapt2:591305832172617740>');
   }
 })
-bot.login('NTkxMzEwMzc1OTQ5OTU5Mjg4.XQ1llw.1bBe3ZAnatQsFD_hDsVboz_XU0g')
+bot.login('NTkxNzcwMjc3NjU1MDg1MDU2.XQ1nPA.pgKECc868rVlhHStPTllEqUwLa4')
